@@ -1,0 +1,13 @@
+  
+/* Cambiar el color del texto a amarillo en hover */
+.nav-link.text-dark:hover {
+  color: #DAE628 !important;
+}
+
+.nav-link.text-dark {
+  font-weight: normal;
+}
+
+#header-ingenieria {
+  font-family: Arial,Helvetica, sans-serif;
+}
